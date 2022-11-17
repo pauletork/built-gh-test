@@ -1,0 +1,440 @@
+/* HEADINGS ON DARK */
+
+.h1-dark {
+  /* Heading 1 (80) */
+
+  font-family: "SF Pro Display";
+  font-size: 80px;
+  line-height: 113px;
+
+  /* white */
+
+  color: #909090;
+}
+
+.h2-dark {
+  /* Heading 2 (60) */
+
+  font-family: "SF Pro Display";
+  font-size: 60px;
+  line-height: 84px;
+
+  /* white */
+
+  color: #909090;
+}
+
+.h3-dark {
+  /* Heading 3 (30) */
+
+  font-family: "SF Pro Display";
+  font-size: 30px;
+  line-height: 42px;
+
+  /* white */
+
+  color: #909090;
+}
+
+.h4-dark {
+  /* Heading 4 (24) */
+
+  font-family: "SF Pro Display";
+  font-size: 24px;
+  line-height: 34px;
+
+  /* white */
+
+  color: #909090;
+}
+
+/* BODY TEXT ON BODY */
+
+.text-lg-dark {
+  /* Large Text (24) */
+
+  font-family: "SF Pro Display";
+  font-size: 24px;
+  line-height: 37px;
+
+  /* white */
+
+  color: #909090;
+}
+
+text-lg-semibold-dark {
+  /* Large Text Semibold (24) */
+
+  font-family: "SF Pro Display";
+  font-size: 24px;
+  line-height: 37px;
+
+  /* white */
+
+  color: #909090;
+}
+
+.text-md-dark {
+  /* Medium Text (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 30px;
+
+  /* white */
+
+  color: #909090;
+}
+
+.text-md-semibold-dark {
+  /* Normal Text Semibold (16) */
+
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #909090;
+}
+
+.caption-dark {
+  /* Caption (18) */
+
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  letter-spacing: 0.001em;
+  text-transform: uppercase;
+
+  /* white */
+
+  color: #909090;
+}
+
+text-dark {
+  /* Normal Text (16) */
+
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 25px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #909090;
+}
+
+.text-semibold-dark {
+  /* Normal Text Semibold (16) */
+
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #909090;
+}
+
+text-sm-dark {
+  /* Small Text (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #909090;
+}
+
+.text-sm-semibold-dark {
+  /* Small Text Semibold (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #909090;
+}
+
+p-dark {
+  /* Medium Text (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 35px;
+  color: #909090;
+}
+
+link-dark {
+  /* Medium Text Semibold (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 35px;
+  /* identical to box height */
+
+  /* teal */
+
+  color: #909090;
+}
+
+link-dark :hover {
+  /* Medium Text Semibold (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 35px;
+  /* identical to box height */
+
+  /* teal */
+
+  color: #909090;
+}
+
+/* HEADINGS (Light) */
+
+.h1 {
+  /* Heading 1 (80) */
+
+  font-family: "SF Pro Display";
+  font-size: 80px;
+  line-height: 113px;
+
+  /* white */
+}
+
+.h2 {
+  /* Heading 2 (60) */
+
+  font-family: "SF Pro Display";
+  font-size: 60px;
+  line-height: 84px;
+
+  /* white */
+}
+
+.h2-semi {
+  /* Heading 2 (60) */
+
+  font-family: "SF Pro Display";
+  font-size: 40px;
+  color: #000000;
+  font-weight: bold;
+
+  /* white */
+}
+
+.h3 {
+  /* Heading 3 (30) */
+
+  font-family: "SF Pro Display";
+  font-size: 28px;
+  line-height: 42px;
+  margin-top: 10px;
+  margin-left: 30px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.h4 {
+  /* Heading 4 (24) */
+
+  font-family: "SF Pro Display";
+  font-size: 24px;
+  line-height: 34px;
+
+  /* white */
+}
+
+/* BODY TEXT ON BODY */
+
+.text-lg {
+  /* Large Text (24) */
+
+  font-family: "SF Pro Display";
+  font-size: 24px;
+  line-height: 37px;
+
+  /* white */
+}
+
+text-lg-semibold {
+  /* Large Text Semibold (24) */
+
+  font-family: "SF Pro Display";
+  font-size: 24px;
+  line-height: 37px;
+
+  /* white */
+}
+
+text-md {
+  /* Medium Text (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 30px;
+
+  /* white */
+}
+
+.text-md-semibold {
+  /* Normal Text Semibold (16) */
+
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* white */
+}
+
+.caption {
+  /* Caption (18) */
+
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: bold;
+  color: #000000;
+  /* identical to box height */
+
+  letter-spacing: 0.001em;
+  text-transform: capitalize;
+
+  /* white */
+}
+
+.text {
+  /* Normal Text (16) */
+
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 25px;
+  /* identical to box height */
+
+  /* white */
+}
+
+.text-semibold {
+  /* Normal Text Semibold (16) */
+
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* white */
+}
+
+.text-sm {
+  /* Small Text (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white */
+}
+
+.text-sm-w {
+  /* Small Text (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+  color: #ffffff;
+
+  /* white */
+}
+
+.text-sm-green {
+  /* Small Text (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 12px;
+  line-height: 18px;
+  color: #34a853;
+  /* identical to box height */
+
+  /* white */
+}
+
+.menu-text {
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  padding: 5px;
+}
+
+.menu-text:hover {
+  color: #ffffff;
+}
+
+.text-sm-semibold {
+  /* Small Text Semibold (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white */
+}
+
+.text-semibold-b {
+  /* Small Text Semibold (12) */
+
+  font-family: "SF Pro Text";
+  font-size: 15px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white */
+}
+
+p {
+  /* Medium Text (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 35px;
+}
+
+link {
+  /* Medium Text Semibold (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 35px;
+  /* identical to box height */
+
+  /* teal */
+
+  color: #909090;
+}
+
+link :hover {
+  /* Medium Text Semibold (20) */
+
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  line-height: 35px;
+  /* identical to box height */
+
+  /* teal */
+}
